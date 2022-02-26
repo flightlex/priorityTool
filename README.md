@@ -1,3 +1,3 @@
 # priorityTool
 Priority Tool Open Source
-v0.2
+BETA v0.3
